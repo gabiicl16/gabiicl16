@@ -43,10 +43,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabiicl16/gabiicl16/output/snake.svg" alt="Snake animation" />
-
-###
